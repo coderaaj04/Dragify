@@ -14,13 +14,13 @@ With a clean UI, responsive design and drag-and-drop functionality, users can ea
 
 ## 🚀 Features
 
-✔ ➕ Add tasks instantly
-✔ 🔄 Drag & drop between columns (To Do / Doing / Done)
-✔ ❌ Delete tasks easily
-✔ 💾 Auto save using Local Storage
-✔ 🎨 Modern UI with smooth animations
-✔ 🟢 Drag highlight effect
-✔ 📱 Fully responsive (mobile + desktop)
+* ➕ Add tasks instantly
+* 🔄 Drag & drop between columns (To Do / Doing / Done)
+* ❌ Delete tasks easily
+* 💾 Auto save using Local Storage
+* 🎨 Modern UI with smooth animations
+* 🟢 Drag highlight effect
+* 📱 Fully responsive (mobile + desktop)
 
 ---
 
