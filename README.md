@@ -1,12 +1,12 @@
 # 🧠 Dragify
 
-> A modern, clean and interactive drag & drop task management web app to organize your work efficiently ⚡
+> A modern, clean and interactive drag & drop task management web to organize your work efficiently ⚡
 
 ---
 
 ## ✨ About The Project
 
-TaskFlow is not just a simple to-do app — it is designed to provide a **smooth and real-world task management experience**.
+TaskFlow is not just a simple to-do web — it is designed to provide a **smooth and real-world task management experience**.
 
 With a clean UI, responsive design and drag-and-drop functionality, users can easily manage and track their tasks across different stages.
 
