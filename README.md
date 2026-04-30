@@ -1,12 +1,18 @@
 # 🧠 Dragify
 
-> A modern, clean and interactive drag & drop task management web to organize your work efficiently ⚡
+> A modern, clean and interactive drag & drop task management web app to organize your work efficiently ⚡
+
+---
+
+## 🌐 Live Demo
+
+👉 [🚀 Open Dragify](https://coderaaj04.github.io/Dragify/)
 
 ---
 
 ## ✨ About The Project
 
-TaskFlow is not just a simple to-do web — it is designed to provide a **smooth and real-world task management experience**.
+Dragify is not just a simple to-do web — it is designed to provide a **smooth and real-world task management experience**.
 
 With a clean UI, responsive design and drag-and-drop functionality, users can easily manage and track their tasks across different stages.
 
@@ -14,32 +20,32 @@ With a clean UI, responsive design and drag-and-drop functionality, users can ea
 
 ## 🚀 Features
 
-* ➕ Add tasks instantly
-* 🔄 Drag & drop between columns (To Do / Doing / Done)
-* ❌ Delete tasks easily
-* 💾 Auto save using Local Storage
-* 🎨 Modern UI with smooth animations
-* 🟢 Drag highlight effect
-* 📱 Fully responsive (mobile + desktop)
+✔ ➕ Add tasks instantly  
+✔ 🔄 Drag & drop between columns (To Do / Doing / Done)  
+✔ ❌ Delete tasks easily  
+✔ 💾 Auto save using Local Storage  
+✔ 🎨 Modern UI with smooth animations  
+✔ 🟢 Drag highlight effect  
+✔ 📱 Fully responsive (mobile + desktop)  
 
 ---
 
 ## 🛠 Tech Stack
 
-* HTML5
-* CSS3 (Modern UI + Glassmorphism)
-* JavaScript (Vanilla JS)
-* LocalStorage API
+- HTML5  
+- CSS3 (Modern UI + Glassmorphism)  
+- JavaScript (Vanilla JS)  
+- LocalStorage API  
 
 ---
 
 ## ⚙️ How It Works
 
-1. User enters a task in the input field
-2. Task is added to the "To Do" column
-3. User can drag and move tasks between sections
-4. All changes are automatically saved in browser storage
-5. Tasks remain even after page refresh
+1. User enters a task in the input field  
+2. Task is added to the "To Do" column  
+3. User can drag and move tasks between sections  
+4. All changes are automatically saved in browser storage  
+5. Tasks remain even after page refresh  
 
 ---
 
@@ -47,27 +53,35 @@ With a clean UI, responsive design and drag-and-drop functionality, users can ea
 
 This project focuses on:
 
-* Interactive UI design 🎨
-* Drag & Drop functionality ⚡
-* Real-world usability 📌
-* Local storage data persistence 💾
+- Interactive UI design 🎨  
+- Drag & Drop functionality ⚡  
+- Real-world usability 📌  
+- Local storage data persistence 💾  
 
 ---
 
 ## 📸 Preview
 
-<img width="1836" height="802" alt="Screenshot 2026-03-31 025730" src="https://github.com/user-attachments/assets/8bfd2bff-0493-4b44-9602-b4c02c00df9f" />
-
-
----
-
-## 👨‍💻 Author
-
-Raj Gaikwad
+<img width="1836" height="802" alt="Dragify Preview" src="https://github.com/user-attachments/assets/8bfd2bff-0493-4b44-9602-b4c02c00df9f" />
 
 ---
 
-## ⚡ Setup Instructions
+## ⚡ Setup & Access
 
-```bash
-git clone : https://coderaaj04.github.io/Dragify/
+### 🌐 Live Website
+👉 [🚀 Open Dragify](https://coderaaj04.github.io/Dragify/)
+
+### 📂 Source Code
+👉 [💻 View Repository](https://github.com/coderaaj04/Dragify)
+
+---
+
+## 👨💻 Author
+
+**Raj Gaikwad**
+
+---
+
+## ⭐ Show Your Support
+
+If you like this project, don’t forget to ⭐ the repo and share it!
